@@ -47,7 +47,8 @@ hr{
 }
 
 .profile-paragraph{
-  margin: auto 500px 100px 500px;
+  width: 30%;
+  margin: 50px auto;
 }
 
 .skills{
